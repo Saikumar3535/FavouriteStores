@@ -1,0 +1,47 @@
+.favourite-stores {
+    background-color: #894bca;
+}
+
+.favourite-image {
+    height: 25vh;
+    width: 35vw;
+}
+
+.favourite-stores-heading {
+    font-family: "Bree Serif";
+    padding: 10px;
+    color: #ffffff;
+    text-align: left;
+}
+
+.select-stores {
+    background-color: #ffffff;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.select-stores-heading {
+    font-family: "Bree Serif";
+    padding: 10px;
+    color: #f780c3;
+}
+
+.store {
+    padding: 10px;
+}
+
+.store-image {
+    height: 20vh;
+
+}
+
+.store-name {
+    padding: 10px;
+    font-weight: bold;
+    color: #323f4b;
+}
+
+.store-description {
+    padding: 10px;
+    color: #7b8794;
+}
